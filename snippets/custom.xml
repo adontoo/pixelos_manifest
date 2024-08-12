@@ -73,7 +73,6 @@
   <project name="system_core" path="system/core" remote="pisces" revision="fourteen" />
   <project name="system_sepolicy" path="system/sepolicy" remote="pisces" revision="fourteen" />
   <project name="system_update_engine" path="system/update_engine" remote="pisces" revision="fourteen" />
-  <project name="system_server_configurable_flags" path="system/server_configurable_flags" remote="pisces" revision="fourteen" />
 
   <!-- Begin Extras -->
 
