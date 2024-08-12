@@ -51,8 +51,6 @@
 
   <project name="external_tinycompress" path="external/tinycompress" remote="pisces" revision="fourteen" />
 
-  <project name="external_zlib-ng" path="external/zlib" remote="pisces" revision="fourteen" />
-
   <!-- Frameworks -->
   <project name="frameworks_av" path="frameworks/av" remote="pisces" revision="fourteen" />
   <project name="frameworks_base" path="frameworks/base" remote="pisces" revision="fourteen" />
