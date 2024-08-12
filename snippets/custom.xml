@@ -13,7 +13,6 @@
            fetch="https://github.com/piscesmk2013" />
 
   <!-- Rootdir -->
-  <remove-project name="bionic" />
   <project name="bionic" path="bionic" remote="pisces" revision="fourteen" />
   <remove-project name="art" />
   <project name="art" path="art" remote="pisces" revision="fourteen" />
