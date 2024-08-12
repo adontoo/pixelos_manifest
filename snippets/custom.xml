@@ -65,7 +65,6 @@
   <!-- Packages -->
   <project name="packages_apps_GameSpace" path="packages/apps/GameSpace" remote="pisces" revision="fourteen" />
   <project name="packages_apps_Settings" path="packages/apps/Settings" remote="pisces" revision="fourteen" />
-  <project name="packages_modules_StatsD" path="packages/modules/StatsD" remote="pisces" revision="fourteen" />
   <project path="packages/modules/Connectivity" name="packages_modules_Connectivity" groups="pdk" remote="PixelOS" />
   <project name="packages_services_Telecomm" path="packages/services/Telecomm" remote="pisces" revision="fourteen" />
   <project name="packages_overlays_ThemeIcons" path="packages/overlays/ThemeIcons" remote="pisces" revision="fourteen" />
