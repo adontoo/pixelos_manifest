@@ -30,14 +30,14 @@
   
   <!-- Caf Hardware -->
   <remove-project name="hardware_qcom-caf_sm8150_audio" />
-  <remove-project name="hardware_qcom-caf_sm8150_display" />
-  <remove-project name="hardware_qcom-caf_sm8150_media" />
-  <remove-project name="vendor_qcom_opensource_commonsys_display" />
-  <remove-project name="vendor_qcom_opensource_commonsys-intf_display" />
   <project name="hardware_qcom-caf_sm8150_audio" path="hardware/qcom-caf/sm8150/audio" remote="pisces" revision="fourteen" />
+  <remove-project name="hardware_qcom-caf_sm8150_display" />
   <project name="hardware_qcom-caf_sm8150_display" path="hardware/qcom-caf/sm8150/display" remote="pisces" revision="fourteen" />
+  <remove-project name="hardware_qcom-caf_sm8150_media" />
   <project name="hardware_qcom-caf_sm8150_media" path="hardware/qcom-caf/sm8150/media" remote="pisces" revision="fourteen" />
+  <remove-project name="vendor_qcom_opensource_commonsys_display" />
   <project name="vendor_qcom_opensource_commonsys_display" path="vendor/qcom/opensource/commonsys/display" remote="pisces" revision="fourteen" />
+  <remove-project name="vendor_qcom_opensource_commonsys-intf_display" />
   <project name="vendor_qcom_opensource_commonsys-intf_display" path="vendor/qcom/opensource/commonsys-intf/display" remote="pisces" revision="fourteen" />
 
   <!-- Device -->
