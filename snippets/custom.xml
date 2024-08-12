@@ -63,7 +63,6 @@
   <project name="hardware_interfaces" path="hardware/interfaces" remote="pisces" revision="fourteen" />
 
   <!-- Packages -->
-  <project name="packages_apps_CarrierConfig" path="packages/apps/CarrierConfig" remote="pisces" revision="fourteen" />
   <project name="packages_apps_GameSpace" path="packages/apps/GameSpace" remote="pisces" revision="fourteen" />
   <project name="packages_apps_Settings" path="packages/apps/Settings" remote="pisces" revision="fourteen" />
   <project name="packages_modules_StatsD" path="packages/modules/StatsD" remote="pisces" revision="fourteen" />
