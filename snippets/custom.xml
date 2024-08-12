@@ -10,7 +10,7 @@
            revision="refs/heads/fourteen" />
 
   <remote  name="pisces"
-           fetch="ssh://git@ssh.github.com:443/piscesmk2013" />
+           fetch="https://github.com/piscesmk2013" />
 
   <!-- Rootdir -->
   <remove-project name="bionic" />
