@@ -48,8 +48,6 @@
   <project path="external/arm-optimized-routines" name="external_arm-optimized-routines" groups="pdk" remote="PixelOS" />
   <project path="external/jemalloc_new" name="external_jemalloc_new" groups="pdk" remote="PixelOS" />
   <project name="external_skia" path="external/skia" remote="pisces" revision="fourteen" />
-  
-  <project name="external_sqlite" path="external/sqlite" remote="pisces" revision="fourteen" />
 
   <project name="external_tinycompress" path="external/tinycompress" remote="pisces" revision="fourteen" />
 
